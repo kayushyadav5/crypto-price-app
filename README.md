@@ -10,3 +10,6 @@ A simple ReactJS app that displays the current prices of popular cryptocurrencie
 ## API used
 https://api.coinstats.app/public/v1/coins?skip=0
 
+## Link to the deployed website
+https://64d94c44faf31954095eecd3--dapper-toffee-ee680c.netlify.app/
+
